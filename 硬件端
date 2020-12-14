@@ -103,6 +103,10 @@ void loop(){
       time_5=0;
     }
   }
+  if(tex<0)
+  {
+     tex=0;
+  }
   if (net_time1 > millis())
     net_time1 = millis();
 
