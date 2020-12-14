@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/data/data",
+    "pages/xianshi/xianshi"
+  ],
+  "window": {
+    "backgroundColor": "#66cc33",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#66cc33",
+    "navigationBarTitleText": "SHY BOY の福音！",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "backgroundColor": "#66cc00",
+    "color": "#ffffff",
+    "selectedColor": "#cc0000",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "/images/3.jpg",
+        "selectedIconPath": "/images/4.jpg"
+      },
+      {
+        "pagePath": "pages/data/data",
+        "text": "数据",
+        "iconPath": "/images/1.jpg",
+        "selectedIconPath": "/images/2.jpg"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

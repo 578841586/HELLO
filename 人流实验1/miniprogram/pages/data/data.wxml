@@ -1,0 +1,6 @@
+<image class="img0" src="/images/jijian.gif"></image>
+<txet class="wenzi">澡堂里有这么多人哟</txet>
+<view class="Text">还有{{countDownNum}}秒自动刷新</view>
+<text class="shuju">{{Pn}}</text>
+<text class ="tuijian" >{{jianyi}}</text>
+

@@ -1,0 +1,7 @@
+
+<swiper  class="lft" autoplay  circular  indicator-color="#000000" indicator-active-color="#0094ff" indicator-dots >
+
+<swiper-item class="lft-item2" ><image class="img2" src="/images/1609.jpg"></image></swiper-item>
+<swiper-item class="lft-item3"><image class="img3" src="/images/1000.jpg"></image></swiper-item>
+</swiper>
+<view class="heard" >让击剑不再尴尬</view>
